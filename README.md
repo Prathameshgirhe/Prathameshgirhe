@@ -93,8 +93,8 @@
 
 ## 📫 Connect
 
-- 📧 prathameshgirhe1@gmail.com
-- 💼 LinkedIn
+- 📧 www.prathameshgirhe1@gmail.com
+- 💼 www.linkedin.com/in/prathameshgirhe
 - 🐙 https://github.com/Prathameshgirhe
 
 ---
