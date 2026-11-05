@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="doc/image/hero.svg?v=1" alt="Prathamesh Girhe — VLSI and digital design intern at COEP Technological University , ENTC engineering student, Pune" width="100%">
+<img src="doc/image/hero-v2.svg?v=1" alt="Prathamesh Girhe — VLSI and digital design intern, ENTC engineering student, Pune" width="100%">
 
 </div>
 
@@ -8,9 +8,9 @@ ENTC engineering student building embedded and digital-design projects, from STM
 
 <div align="center">
 
-<img src="doc/image/hero.svg?v=1" alt="What I build: digital design and RTL, embedded firmware, hardware design, analysis. Interests: fitness, traveling, sketching." width="100%">
+<img src="doc/image/about-life.svg?v=2" alt="What I build: digital design and RTL, embedded firmware, hardware design, analysis. Interests: fitness, traveling, sketching." width="100%">
 
-<img src="doc/image/hero.svg?v=1" alt="Tech stack: Verilog, VHDL, Vivado, RISC-V, C/C++, FreeRTOS, STM32, ESP32, Python, KiCad, MATLAB, Logisim." width="100%">
+<img src="doc/image/stack.svg?v=2" alt="Tech stack: Verilog, VHDL, Vivado, RISC-V, C/C++, FreeRTOS, STM32, ESP32, Python, KiCad, MATLAB, Logisim." width="100%">
 
 </div>
 
@@ -24,16 +24,16 @@ ENTC engineering student building embedded and digital-design projects, from STM
 
 <div align="center">
 
-<img src="doc/image/hero.svg?v=1" alt="Developer ID card for Prathamesh Girhe with dated public repo data from GitHub" width="100%">
+<img src="doc/image/id-dashboard-v2.svg?v=1" alt="Developer ID card for Prathamesh Girhe with dated public repo data from GitHub" width="100%">
 
-<img  src="doc/image/hero.svg?v=1" alt="Let's connect: LinkedIn, GitHub and email" width="100%">
+<img src="doc/image/connect.svg?v=2" alt="Let's connect: LinkedIn, GitHub and email" width="100%">
 
 **[LinkedIn](https://www.linkedin.com/in/prathameshgirhe/)** &nbsp;·&nbsp; **[GitHub](https://github.com/prathameshgirhe)** &nbsp;·&nbsp; **[Email](mailto:prathameshgirhe1@gmail.com)**
 
 </div>
 
 <!--
-Placeholders: uncomment and fill in when these accounts are ready (the matching cards in assets/connect.svg
+Placeholders: uncomment and fill in when these accounts are ready (the matching cards in doc/image/connect.svg
 already say "add ... soon"; edit that text in connect.svg when you add the real handles).
 **[Instagram](https://www.instagram.com/YOUR_HANDLE/)** · **[X](https://x.com/YOUR_HANDLE)** · **[YouTube](https://www.youtube.com/@YOUR_CHANNEL)** · **[Portfolio](https://YOUR_SITE)** · **[Topmate](https://topmate.io/YOUR_HANDLE)**
 -->
