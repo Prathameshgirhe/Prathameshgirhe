@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=1" alt="Prathamesh Girhe — VLSI and digital design intern, ENTC engineering student, Pune" width="100%">
+<img src="doc/image/hero.svg?v=1" alt="Prathamesh Girhe — VLSI and digital design intern at COEP Technological University , ENTC engineering student, Pune" width="100%">
 
 </div>
 
@@ -8,9 +8,9 @@ ENTC engineering student building embedded and digital-design projects, from STM
 
 <div align="center">
 
-<img src="assets/about-life.svg?v=1" alt="What I build: digital design and RTL, embedded firmware, hardware design, analysis. Interests: fitness, traveling, sketching." width="100%">
+<img src="doc/image/hero.svg?v=1" alt="What I build: digital design and RTL, embedded firmware, hardware design, analysis. Interests: fitness, traveling, sketching." width="100%">
 
-<img src="assets/stack.svg?v=1" alt="Tech stack: Verilog, VHDL, Vivado, RISC-V, C/C++, FreeRTOS, STM32, ESP32, Python, KiCad, MATLAB, Logisim." width="100%">
+<img src="doc/image/hero.svg?v=1" alt="Tech stack: Verilog, VHDL, Vivado, RISC-V, C/C++, FreeRTOS, STM32, ESP32, Python, KiCad, MATLAB, Logisim." width="100%">
 
 </div>
 
@@ -24,9 +24,9 @@ ENTC engineering student building embedded and digital-design projects, from STM
 
 <div align="center">
 
-<img src="assets/id-dashboard.svg?v=1" alt="Developer ID card for Prathamesh Girhe with dated public repo data from GitHub" width="100%">
+<img src="doc/image/hero.svg?v=1" alt="Developer ID card for Prathamesh Girhe with dated public repo data from GitHub" width="100%">
 
-<img src="assets/connect.svg?v=1" alt="Let's connect: LinkedIn, GitHub and email" width="100%">
+<img  src="doc/image/hero.svg?v=1" alt="Let's connect: LinkedIn, GitHub and email" width="100%">
 
 **[LinkedIn](https://www.linkedin.com/in/prathameshgirhe/)** &nbsp;·&nbsp; **[GitHub](https://github.com/prathameshgirhe)** &nbsp;·&nbsp; **[Email](mailto:prathameshgirhe1@gmail.com)**
 
