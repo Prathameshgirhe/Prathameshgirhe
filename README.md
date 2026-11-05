@@ -1,117 +1,39 @@
-# 🚀 Prathamesh Girhe
+<div align="center">
 
-> **Electronics & Telecommunication Engineer | VLSI | Embedded Systems | Digital Design**
+<img src="assets/hero.svg?v=1" alt="Prathamesh Girhe — VLSI and digital design intern, ENTC engineering student, Pune" width="100%">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,50:6A5ACD,100:8A2BE2&text=Prathamesh%20Girhe&fontColor=ffffff&fontSize=45"/>
-</p>
+</div>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=VLSI+Engineer;Embedded+Systems+Developer;RTL+Design;STM32+%7C+FreeRTOS+%7C+CAN+Bus;Always+Learning+Always+Building"/>
-</p>
+ENTC engineering student building embedded and digital-design projects, from STM32/FreeRTOS firmware to encrypted LoRa communication, aiming for VLSI and semiconductor roles.
 
----
+<div align="center">
 
-## 👨‍💻 About Me
+<img src="assets/about-life.svg?v=1" alt="What I build: digital design and RTL, embedded firmware, hardware design, analysis. Interests: fitness, traveling, sketching." width="100%">
 
-- 🎓 B.E. Electronics & Telecommunication Engineering
-- 🔬 VLSI Intern @ COEP Technological University
-- ⚡ Embedded Systems Intern @ HITL Pvt. Ltd.
-- 💻 Verilog • VHDL • Embedded C/C++ • Python
-- 🔧 STM32 • FreeRTOS • CAN • UART • SPI • I2C
+<img src="assets/stack.svg?v=1" alt="Tech stack: Verilog, VHDL, Vivado, RISC-V, C/C++, FreeRTOS, STM32, ESP32, Python, KiCad, MATLAB, Logisim." width="100%">
 
----
+</div>
 
-## 🛠 Tech Stack
+## Featured projects
 
-| Category | Skills |
-|-----------|--------|
-| HDL | Verilog, VHDL |
-| Languages | Embedded C/C++, Python |
-| Embedded | STM32, Arduino, FreeRTOS |
-| Protocols | CAN, UART, SPI, I2C |
-| Tools | STM32CubeIDE, KiCad, Logisim, MATLAB |
+| Project | What it is | Stack | Repo |
+| :-- | :-- | :-- | :-- |
+| **32-bit 5-Stage RISC-V Processor with Hazard Handling** <br> Aug 2026 | Pipelined RISC-V core with forwarding and hazard detection, simulated across many instruction sequences and synthesized in Vivado with LUT/FF and timing analysis. | Verilog HDL · Xilinx Vivado · Pipelined RTL | [32-bit_RISC-V_5-Stage_Pipelined_Processor](https://github.com/Prathameshgirhe/32-bit_RISC-V_5-Stage_Pipelined_Processor) |
+| **Asynchronous FIFO with Clock-Domain Crossing** <br> Jul 2026 | Parameterized asynchronous FIFO with Gray-code pointers and clock-domain synchronization, checked for full/empty, overflow and underflow behavior. | Verilog HDL · Xilinx Vivado · RTL design | [Asynchronous_FIFO](https://github.com/Prathameshgirhe/Asynchronous_FIFO) |
+| **Automotive ECU Simulator** <br> Jul 2026 | STM32/RTOS automotive ECU simulator with CAN bus integration and a custom bootloader, verified with fault-injection tests. | C/C++ · STM32 · CAN Bus | [Automotive-ECU-Simulator](https://github.com/Prathameshgirhe/Automotive-ECU-Simulator) |
 
----
+<div align="center">
 
-## ⭐ Featured Projects
+<img src="assets/id-dashboard.svg?v=1" alt="Developer ID card for Prathamesh Girhe with dated public repo data from GitHub" width="100%">
 
-<details>
-<summary><b>Automotive ECU Simulator</b></summary>
+<img src="assets/connect.svg?v=1" alt="Let's connect: LinkedIn, GitHub and email" width="100%">
 
-- STM32
-- FreeRTOS
-- CAN Bus
-- Bootloader
-- Diagnostics
-- Fault Injection
+**[LinkedIn](https://www.linkedin.com/in/prathameshgirhe/)** &nbsp;·&nbsp; **[GitHub](https://github.com/prathameshgirhe)** &nbsp;·&nbsp; **[Email](mailto:prathameshgirhe1@gmail.com)**
 
-</details>
+</div>
 
-<details>
-<summary><b>Secure Off‑Grid Battlefield Communication</b></summary>
-
-- ESP32
-- Raspberry Pi Pico
-- LoRa 433MHz
-- AES‑128 Encryption
-
-</details>
-
----
-
-## 💼 Experience
-
-### COEP Technological University
-**VLSI Intern**
-
-### HITL Pvt. Ltd.
-**Embedded Systems Intern**
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prathameshgirhe&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathameshgirhe&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Prathameshgirhe&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Prathameshgirhe&theme=tokyonight&row=1&column=6"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathameshgirhe&theme=tokyo-night"/>
-</p>
-
----
-
-## 📫 Connect
-
-- 📧 www.prathameshgirhe1@gmail.com
-- 💼 www.linkedin.com/in/prathameshgirhe
-- 🐙 https://github.com/Prathameshgirhe
-
----
-
-```yaml
-Learning:
-  - ASIC Design
-  - Physical Design
-  - FPGA
-Building:
-  - Automotive ECU Simulator
-  - Embedded Firmware
-OpenTo:
-  - VLSI
-  - Embedded Systems
-```
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4B0082,50:6A5ACD,100:8A2BE2"/>
-</p>
+<!--
+Placeholders: uncomment and fill in when these accounts are ready (the matching cards in assets/connect.svg
+already say "add ... soon"; edit that text in connect.svg when you add the real handles).
+**[Instagram](https://www.instagram.com/YOUR_HANDLE/)** · **[X](https://x.com/YOUR_HANDLE)** · **[YouTube](https://www.youtube.com/@YOUR_CHANNEL)** · **[Portfolio](https://YOUR_SITE)** · **[Topmate](https://topmate.io/YOUR_HANDLE)**
+-->
