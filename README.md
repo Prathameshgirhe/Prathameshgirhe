@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="doc/image/hero-v2.svg" alt="Prathamesh Girhe — VLSI and digital design intern, ENTC engineering student, Pune" width="100%">
+<img src="doc/image/hero-v2.svg" alt="Prathamesh Girhe — VLSI and digital design intern at COEP Technological University, ENTC engineering student, Pune" width="100%">
 
 </div>
 
