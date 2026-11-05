@@ -20,7 +20,7 @@ ENTC engineering student building embedded and digital-design projects, from STM
 | :-- | :-- | :-- | :-- |
 | **32-bit 5-Stage RISC-V Processor with Hazard Handling** <br> Aug 2026 | Pipelined RISC-V core with forwarding and hazard detection, simulated across many instruction sequences and synthesized in Vivado with LUT/FF and timing analysis. | Verilog HDL · Xilinx Vivado · Pipelined RTL | [32-bit_RISC-V_5-Stage_Pipelined_Processor](https://github.com/Prathameshgirhe/32-bit_RISC-V_5-Stage_Pipelined_Processor) |
 | **Asynchronous FIFO with Clock-Domain Crossing** <br> Jul 2026 | Parameterized asynchronous FIFO with Gray-code pointers and clock-domain synchronization, checked for full/empty, overflow and underflow behavior. | Verilog HDL · Xilinx Vivado · RTL design | [Asynchronous_FIFO](https://github.com/Prathameshgirhe/Asynchronous_FIFO) |
-| **Automotive ECU Simulator** <br> Jul 2026 | STM32/RTOS automotive ECU simulator with CAN bus integration and a custom bootloader, verified with fault-injection tests. | C/C++ · STM32 · CAN Bus | [Automotive-ECU-Simulator](https://github.com/Prathameshgirhe/Automotive-ECU-Simulator) |
+| **Automotive ECU Simulator** <br> Jul 2026 | STM32/RTOS automotive ECU simulator with CAN bus integration and a custom bootloader, verified with fault-injection tests. | C/C++ · STM32 · CAN Bus | [Automotive-ECU-Simulator](https://github.com/Prathameshgirhe/ECU_Simulator) |
 
 <div align="center">
 
